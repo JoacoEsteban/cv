@@ -39,5 +39,5 @@ A Chrome extensions to set up keyboard shortcuts.
 ## Languages
 
 • **Spanish**: Native
-• **English**: Advanced, Professional
+• **English**: Fluent, Professional
 • **Italian**: Advanced
