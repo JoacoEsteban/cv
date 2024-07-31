@@ -14,7 +14,7 @@
 
 ## Experience
 
-### [Coderhouse](https://coderhouse.com) | Dec 2019 - Present
+### Coderhouse | Dec 2019 - Jul 2024
 
 - Developed and supported a custom checkout system serving over 100k unique users/month, generating over $1M/month in revenue.
 - Created and maintained a custom E2E e-commerce solution with over 200k unique users/month.
