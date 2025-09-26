@@ -14,20 +14,11 @@
 
 ## Experiencia
 
-### Upwork | Jul 2024 - Presente
+### Experiencia Freelance: Upwork | Jul 2024 - Presente
 - 100% Job Success Score (Calificación máxima)
 - Diseño y desarrollo de experiencias de checkout personalizadas para aplicaciones con más de 100k visitas mensuales
 - Desarrollo y mantenimiento de extensiones personalizadas de Chrome
-
-> "Después de casi tres años de retrasos y contratiempos con varios desarrolladores que no lograron completar nuestro proyecto de aplicación web y extensión de Chrome, tuvimos la suerte de incorporar a este profesional. Desde el principio demostró no solo experiencia técnica, sino también un fuerte sentido de responsabilidad y compromiso que habían estado ausentes en intentos previos.
->
-> Heredó una base de código inestable, mal documentada y llena de problemas, pero rápidamente la estabilizó con prácticas de codificación limpias, duraderas y eficientes. Su atención al detalle fue excelente; se tomó el tiempo de comprender completamente los requisitos subyacentes y las particularidades del sistema, asegurándose de que nada se pasara por alto ni se resolviera de forma apresurada.
->
-> Lo que realmente destacó fue su honestidad y transparencia durante todo el proceso. Comunicó claramente los desafíos, propuso soluciones efectivas y entregó exactamente lo prometido. Por primera vez en años, tuvimos un producto funcional y confiable que cumplía con nuestra visión original.
->
-> Quedamos tan impresionados con su trabajo que lo contratamos para mejoras y ampliaciones adicionales más allá del alcance original. Es raro encontrar un desarrollador que combine sólidas habilidades técnicas con integridad y profesionalismo, y lo recomendamos encarecidamente a cualquiera que busque trabajo de desarrollo de alta calidad hecho bien desde la primera vez.
->
-> Esperamos contratarlo en nuestra próxima fase."
+- Referencias disponibles en [perfil de Upwork](https://upwork.com/freelancers/joaco)
 
 ### Coderhouse | Dic 2019 - Jul 2024
 
