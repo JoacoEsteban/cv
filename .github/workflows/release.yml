@@ -18,12 +18,17 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Build project
+      - name: Render PDF
         run: npx -y mdpdf readme.md cv.pdf --style=style.css --gh-style
+
+      - name: Render PDF (Spanish)
+        run: npx -y mdpdf spanish.md cv-spanish.pdf --style=style.css --gh-style
 
       - name: Upload release asset
         uses: softprops/action-gh-release@v1
         with:
-          files: cv.pdf
+          files: |
+            cv.pdf
+            cv-spanish.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
