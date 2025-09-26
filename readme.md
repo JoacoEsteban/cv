@@ -50,6 +50,12 @@
 
 - Developed and managed deployments for B2B web applications.
 
+## Education
+- **Ingeniería en Sistemas de Información (Systems Engineering Degree)**
+    - **Institution**: Universidad Técnica Nacional de Buenos Aires (UTN)
+    - **Dates**: 2017 - 2019
+    - **Status**: Program not finished
+
 ## Personal Projects
 
 ### [Vind](https://vind-works.io)
