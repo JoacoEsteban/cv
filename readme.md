@@ -1,12 +1,12 @@
 # Joaquin Esteban - Software Engineer
 
-| [joaco.io](https://joaco.io) | [Github](https://github.com/joacoesteban) | [Linkedin](https://www.linkedin.com/in/joaquin-esteban/) | [dev@joaco.io](mailto:dev@joaco.io) | Tel: +393280739643 |
-| ---------------------------- | ----------------------------------------- | -------------------------------------------------------- | ----------------------------------- | ------------------ |
+| [joaco.io](https://joaco.io) | [Github](https://github.com/joacoesteban) | [Linkedin](https://www.linkedin.com/in/joaquin-esteban/) | [dev@joaco.io](mailto:dev@joaco.io) | [Upwork](https://upwork.com/freelancers/joaco) | Tel: +541123869287 |
+| ---------------------------- | ----------------------------------------- | -------------------------------------------------------- | ----------------------------------- | ---------------------------------------------- | ------------------ |
 
 ## Skills
 
-- **Languages**: TypeScript, JavaScript, Node.js, Go, Python, C++, C, Elixir
-- **Frameworks and Libraries**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux
+- **Languages**: TypeScript, JavaScript, Node.js, Go, Python, C++, C, Elixir, PHP, Swift
+- **Frameworks and Libraries**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, react-three-fiber, React Native, iOS native development
 - **Databases**: MongoDB, PostgreSQL, DynamoDB, SurrealDB, SQLite
 - **Technologies**: Microservices, AWS, CI/CD, Jest, Unit Testing, Git, Event-Driven Architecture, HTML, CSS, SCSS, Webpack, Babel, Docker, Kubernetes, Nginx, Redis, RabbitMQ, REST, WebSockets, OAuth, JWT, Prisma
 - **Architectures**: Frontend, Backend, Full-Stack, SSR, OOP, Functional Programming
@@ -62,4 +62,4 @@ A Chrome extensions to set up keyboard shortcuts.
 
 • **Spanish**: Native
 • **English**: Fluent, Professional
-• **Italian**: Advanced
+• **Italian**: Fluent
