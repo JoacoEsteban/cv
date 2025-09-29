@@ -17,7 +17,7 @@
 ### Consultoría independiente: Upwork | Jul 2024 - Presente
 - Diseñé y desarrollé experiencias de checkout personalizadas para aplicaciones con más de 100k visitas mensuales.
 - Desarrollé y mantuve extensiones de Chrome especializadas.
-- Job Success Score del 100% (calificación máxima).
+- Mantuve un Job Success Score del 100%, obtuve la insignia Top Talent y calificaciones sobresalientes de los clientes.
 - Referencias disponibles en el [perfil de Upwork](https://upwork.com/freelancers/joaco).
 
 ### Coderhouse | Dic 2019 - Jul 2024
@@ -35,14 +35,15 @@
 
 ### Fnet System | Jul 2019 - Dic 2019
 
-- Construí aplicaciones web internas de gestión B2B.
+- Construí aplicaciones web internas de gestión B2B para clientes de alto perfil como Claro y el Gobierno de la Ciudad de Buenos Aires.
 - Implementé funcionalidades de frontend en Vue.js e integré APIs REST.
 - Convertí diseños de interfaces en Figma en código de frontend listo para producción.
 
 ### Devtion | Nov 2021 - Sep 2022
 
-- Desarrollé y gestioné despliegues para aplicaciones web B2B.
+- Diseñé e implementé la arquitectura para APIs y aplicaciones frontend.
 - Implementé funcionalidades de frontend en React.js e integré APIs REST.
+- Desarrollé y mantuve pipelines de CI/CD que soportaban múltiples despliegues full-stack.
 
 ## Educación
 - **Ingeniería en Sistemas de Información (título de Ingeniería de Sistemas)**
