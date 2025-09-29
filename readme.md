@@ -54,10 +54,14 @@
 
 ### [Vind](https://vind-works.io)
 
-A Chrome extensions to set up keyboard shortcuts.
+Chrome extension for custom keyboard shortcuts.
 
-> Applied extensive experience in building interfaces focusing on reliability, UX/UI, and user satisfaction.
-
+- Engineered robust interface emphasizing reliability, usability, and responsive UX/UI.
+- Implemented IndexedDB with Dexie.js to ensure durable data persistence and seamless schema migrations.
+- Implemented a custom algorithm to persist and identify DOM elements across sessions. 
+- Designed and implemented a dynamic color system that generates balanced, visually consistent button palettes.
+- Created a unique 3D onboarding experience using Three.js.
+- Built comprehensive import and export functionality enabling seamless transfer of user-defined configurations.
 ## Languages
 
 • **Spanish**: Native
