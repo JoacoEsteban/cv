@@ -14,10 +14,10 @@
 
 ## Experience
 
-### Freelancing experience: Upwork | Jul 2024 - Present
-- 100% Job Success Score (Top rating)
+### Independent Consulting: Upwork | Jul 2024 - Present
 - Designed and developed custom checkout experiences for applications with over 100k monthly visits
-- Developed and maintained custom Chrome Extensions
+- Developed and maintained specialized Chrome Extensions
+- 100% Job Success Score (Top rating)
 - References available on [Upwork profile](https://upwork.com/freelancers/joaco)
 
 ### Coderhouse | Dec 2019 - Jul 2024
@@ -35,11 +35,14 @@
 
 ### Fnet System | Jul 2019 - Dec 2019
 
-- Developed B2B internal management web applications.
+- Built internal B2B management web applications.
+- Implemented front-end features in Vue.js and integrated REST APIs.
+- Converted Figma interface designs into production-ready front-end code.
 
 ### Devtion | Nov 2021 - Sep 2022
 
 - Developed and managed deployments for B2B web applications.
+- Implemented front-end features in React.js and integrated REST APIs.
 
 ## Education
 - **Ingeniería en Sistemas de Información (Systems Engineering Degree)**
