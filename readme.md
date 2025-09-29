@@ -6,7 +6,7 @@
 ## Skills
 
 - **Languages**: TypeScript, JavaScript, Node.js, Go, Python, C++, C, Elixir, PHP, Swift
-- **Frameworks and Libraries**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, react-three-fiber, React Native, iOS native development
+- **Frameworks and Libraries**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, React-Three-Fiber, React Native, iOS native development
 - **Databases**: MongoDB, PostgreSQL, DynamoDB, SurrealDB, SQLite
 - **Technologies**: Microservices, AWS, CI/CD, Jest, Unit Testing, Git, Event-Driven Architecture, HTML, CSS, SCSS, Webpack, Babel, Docker, Kubernetes, Nginx, Redis, RabbitMQ, REST, WebSockets, OAuth, JWT, Prisma
 - **Architectures**: Frontend, Backend, Full-Stack, SSR, OOP, Functional Programming
@@ -18,7 +18,6 @@
 - Designed and developed custom checkout experiences for applications with over 100k monthly visits.
 - Developed and maintained specialized Chrome Extensions.
 - Maintained a 100% Job Success Score and earned Top Talent badge, achieving top client ratings on Upwork.
-- References available on [Upwork profile](https://upwork.com/freelancers/joaco).
 
 ### Coderhouse | Dec 2019 - Jul 2024
 
@@ -33,16 +32,18 @@
 - Developed and supported the user platform, sustaining over 60k active users/month.
 - Integrated no-code platforms (Webflow, Framer) with the main e-commerce site to remove development/design bottlenecks.
 
-### Fnet System | Jul 2019 - Dec 2019
-
-- Developed internal B2B management web applications for high-profile clients including Claro and the Buenos Aires City Government.
-- Delivered front-end functionality using Vue.js with integrated RESTful APIs.
-- Translated Figma designs into production-grade front-end implementations.
 ### Devtion | Nov 2021 - Sep 2022
 
 - Designed and implemented architecture for APIs and front-end applications.
 - Built and integrated React.js front-end features with RESTful APIs.
 - Developed and maintained CI/CD pipelines supporting multiple full-stack deployments.
+
+### Fnet System | Jul 2019 - Dec 2019
+
+- Developed internal B2B management web applications for high-profile clients including Claro and the Buenos Aires City Government.
+- Delivered front-end functionality using Vue.js with integrated RESTful APIs.
+- Translated Figma designs into production-grade front-end implementations.
+
 
 ## Education
 - **Ingeniería en Sistemas de Información (Systems Engineering Degree)**

@@ -6,7 +6,7 @@
 ## Habilidades
 
 - **Lenguajes**: TypeScript, JavaScript, Node.js, Go, Python, C++, C, Elixir, PHP, Swift
-- **Frameworks y bibliotecas**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, react-three-fiber, React Native, desarrollo nativo de iOS
+- **Frameworks y bibliotecas**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, React-Three-Fiber, React Native, desarrollo nativo de iOS
 - **Bases de datos**: MongoDB, PostgreSQL, DynamoDB, SurrealDB, SQLite
 - **Tecnologías**: Microservicios, AWS, CI/CD, Jest, Pruebas unitarias, Git, Arquitectura orientada a eventos, HTML, CSS, SCSS, Webpack, Babel, Docker, Kubernetes, Nginx, Redis, RabbitMQ, REST, WebSockets, OAuth, JWT, Prisma
 - **Arquitecturas**: Frontend, Backend, Full-Stack, SSR, POO, Programación funcional
@@ -18,7 +18,6 @@
 - Diseñé y desarrollé experiencias de checkout personalizadas para aplicaciones con más de 100k visitas mensuales.
 - Desarrollé y mantuve extensiones de Chrome especializadas.
 - Mantuve un Job Success Score del 100%, obtuve la insignia Top Talent y calificaciones sobresalientes de los clientes.
-- Referencias disponibles en el [perfil de Upwork](https://upwork.com/freelancers/joaco).
 
 ### Coderhouse | Dic 2019 - Jul 2024
 
@@ -33,17 +32,17 @@
 - Desarrollé y di soporte a la plataforma de usuarios, sosteniendo más de 60k usuarios activos/mes.
 - Integré plataformas no-code (Webflow, Framer) con el sitio principal de e-commerce para eliminar cuellos de botella de desarrollo/diseño.
 
-### Fnet System | Jul 2019 - Dic 2019
-
-- Construí aplicaciones web internas de gestión B2B para clientes de alto perfil como Claro y el Gobierno de la Ciudad de Buenos Aires.
-- Implementé funcionalidades de frontend en Vue.js e integré APIs REST.
-- Convertí diseños de interfaces en Figma en código de frontend listo para producción.
-
 ### Devtion | Nov 2021 - Sep 2022
 
 - Diseñé e implementé la arquitectura para APIs y aplicaciones frontend.
 - Implementé funcionalidades de frontend en React.js e integré APIs REST.
 - Desarrollé y mantuve pipelines de CI/CD que soportaban múltiples despliegues full-stack.
+
+### Fnet System | Jul 2019 - Dic 2019
+
+- Construí aplicaciones web internas de gestión B2B para clientes de alto perfil como Claro y el Gobierno de la Ciudad de Buenos Aires.
+- Implementé funcionalidades de frontend en Vue.js e integré APIs REST.
+- Convertí diseños de interfaces en Figma en código de frontend listo para producción.
 
 ## Educación
 - **Ingeniería en Sistemas de Información (título de Ingeniería de Sistemas)**
