@@ -6,57 +6,65 @@
 ## Habilidades
 
 - **Lenguajes**: TypeScript, JavaScript, Node.js, Go, Python, C++, C, Elixir, PHP, Swift
-- **Frameworks y Librerías**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, react-three-fiber, React Native, desarrollo nativo iOS
-- **Bases de Datos**: MongoDB, PostgreSQL, DynamoDB, SurrealDB, SQLite
-- **Tecnologías**: Microservicios, AWS, CI/CD, Jest, Pruebas Unitarias, Git, Arquitectura Orientada a Eventos, HTML, CSS, SCSS, Webpack, Babel, Docker, Kubernetes, Nginx, Redis, RabbitMQ, REST, WebSockets, OAuth, JWT, Prisma
-- **Arquitecturas**: Frontend, Backend, Full-Stack, SSR, POO, Programación Funcional
-- **Áreas de Especialización**: Ingeniería de Software, DevOps, Ingeniería de Sistemas, Liderazgo Técnico, Pruebas A/B
+- **Frameworks y bibliotecas**: Express, NestJS, RxJS, React, Vue, Svelte, Next.js, Nuxt.js, SvelteKit, Redux, Tailwind, Three.js, react-three-fiber, React Native, desarrollo nativo de iOS
+- **Bases de datos**: MongoDB, PostgreSQL, DynamoDB, SurrealDB, SQLite
+- **Tecnologías**: Microservicios, AWS, CI/CD, Jest, Pruebas unitarias, Git, Arquitectura orientada a eventos, HTML, CSS, SCSS, Webpack, Babel, Docker, Kubernetes, Nginx, Redis, RabbitMQ, REST, WebSockets, OAuth, JWT, Prisma
+- **Arquitecturas**: Frontend, Backend, Full-Stack, SSR, POO, Programación funcional
+- **Áreas de especialización**: Ingeniería de Software, DevOps, Ingeniería de Sistemas, Liderazgo técnico
 
 ## Experiencia
 
-### Experiencia Freelance: Upwork | Jul 2024 - Presente
-- 100% Job Success Score (Calificación máxima)
-- Diseño y desarrollo de experiencias de checkout personalizadas para aplicaciones con más de 100k visitas mensuales
-- Desarrollo y mantenimiento de extensiones personalizadas de Chrome
-- Referencias disponibles en [perfil de Upwork](https://upwork.com/freelancers/joaco)
+### Consultoría independiente: Upwork | Jul 2024 - Presente
+- Diseñé y desarrollé experiencias de checkout personalizadas para aplicaciones con más de 100k visitas mensuales.
+- Desarrollé y mantuve extensiones de Chrome especializadas.
+- Job Success Score del 100% (calificación máxima).
+- Referencias disponibles en el [perfil de Upwork](https://upwork.com/freelancers/joaco).
 
 ### Coderhouse | Dic 2019 - Jul 2024
 
-- Desarrollo y soporte de un sistema de checkout personalizado que atendía a más de 100k usuarios únicos/mes, generando más de 1M USD/mes en ingresos.
-- Creación y mantenimiento de una solución de e-commerce E2E personalizada con más de 200k usuarios únicos/mes.
-- Escalado y lanzamiento de infraestructura de e-commerce en más de 8 países.
-- Contribución al crecimiento de la empresa de ~20 a ~200 empleados.
-- Automatización de procesos de pago integrando más de 8 pasarelas de pago internacionales.
-- Logro de primeras posiciones en SEO para el sitio de e-commerce.
-- Liderazgo del equipo de desarrollo técnico para e-commerce.
-- Construcción de herramientas internas para la gestión de diversas operaciones comerciales.
-- Desarrollo y soporte de la plataforma de usuarios, con más de 60k usuarios activos/mes.
-- Integración de plataformas no-code (Webflow, Framer) con el sitio principal de e-commerce para eliminar cuellos de botella en desarrollo/diseño.
+- Desarrollé y di soporte a un sistema de checkout personalizado que atendía a más de 100k usuarios únicos/mes, generando más de 1M USD/mes en ingresos.
+- Creé y mantuve una solución de e-commerce E2E personalizada con más de 200k usuarios únicos/mes.
+- Escalé y lancé infraestructura de e-commerce en más de 8 países.
+- Contribuí al crecimiento de la empresa de ~20 a ~200 empleados.
+- Automatizé procesos de pago integrando más de 8 pasarelas de pago internacionales.
+- Logré posiciones top de SEO para el sitio de e-commerce.
+- Lideré el equipo técnico de desarrollo para e-commerce.
+- Construí herramientas internas para gestionar diversas operaciones del negocio.
+- Desarrollé y di soporte a la plataforma de usuarios, sosteniendo más de 60k usuarios activos/mes.
+- Integré plataformas no-code (Webflow, Framer) con el sitio principal de e-commerce para eliminar cuellos de botella de desarrollo/diseño.
 
 ### Fnet System | Jul 2019 - Dic 2019
 
-- Desarrollo de aplicaciones web internas de gestión B2B.
+- Construí aplicaciones web internas de gestión B2B.
+- Implementé funcionalidades de frontend en Vue.js e integré APIs REST.
+- Convertí diseños de interfaces en Figma en código de frontend listo para producción.
 
 ### Devtion | Nov 2021 - Sep 2022
 
-- Desarrollo y gestión de despliegues para aplicaciones web B2B.
+- Desarrollé y gestioné despliegues para aplicaciones web B2B.
+- Implementé funcionalidades de frontend en React.js e integré APIs REST.
 
 ## Educación
-- **Ingeniería en Sistemas de Información**
+- **Ingeniería en Sistemas de Información (título de Ingeniería de Sistemas)**
     - **Institución**: Universidad Técnica Nacional de Buenos Aires (UTN)
     - **Fechas**: 2017 - 2019
     - **Estado**: Programa no finalizado
 
-## Proyectos Personales
+## Proyectos personales
 
 ### [Vind](https://vind-works.io)
 
-Extensión de Chrome para configurar atajos de teclado.
+Extensión de Chrome para atajos de teclado personalizados.
 
-> Apliqué mi amplia experiencia en construcción de interfaces enfocadas en confiabilidad, UX/UI y satisfacción del usuario.
+- Diseñé una interfaz robusta con énfasis en confiabilidad, usabilidad y UX/UI responsiva.
+- Implementé IndexedDB con Dexie.js para garantizar persistencia de datos duradera y migraciones de esquema sin fricción.
+- Implementé un algoritmo personalizado para persistir e identificar elementos del DOM entre sesiones. 
+- Diseñé e implementé un sistema de color dinámico que genera paletas de botones equilibradas y visualmente consistentes.
+- Creé una experiencia de onboarding 3D única utilizando Three.js.
+- Construí una funcionalidad integral de importación y exportación que permite la transferencia sin fricción de configuraciones definidas por el usuario.
 
 ## Idiomas
 
-• **Español**: Nativo  
-• **Inglés**: Fluido, Profesional  
+• **Español**: Nativo
+• **Inglés**: Fluido, Profesional
 • **Italiano**: Fluido
