@@ -17,7 +17,7 @@
 ### Consultoría independiente: Upwork | Jul 2024 - Presente
 - Diseñé y desarrollé experiencias de checkout personalizadas para aplicaciones con más de 100k visitas mensuales.
 - Desarrollé y mantuve extensiones de Chrome especializadas.
-- Mantuve un Job Success Score del 100%, obtuve la insignia Top Talent y calificaciones sobresalientes de los clientes.
+- Mantuve un Job Success Score del 100%, obtuve la insignia Top Talent de Upwork y calificaciones sobresalientes de los clientes.
 
 ### Coderhouse | Dic 2019 - Jul 2024
 

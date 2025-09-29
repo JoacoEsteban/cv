@@ -17,7 +17,7 @@
 ### Independent Consulting: Upwork | Jul 2024 - Present
 - Designed and developed custom checkout experiences for applications with over 100k monthly visits.
 - Developed and maintained specialized Chrome Extensions.
-- Maintained a 100% Job Success Score and earned Top Talent badge, achieving top client ratings on Upwork.
+- Maintained a 100% Job Success Score and earned Upwork Top Talent badge, achieving top client ratings on Upwork.
 
 ### Coderhouse | Dec 2019 - Jul 2024
 
