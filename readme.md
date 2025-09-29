@@ -10,7 +10,7 @@
 - **Databases**: MongoDB, PostgreSQL, DynamoDB, SurrealDB, SQLite
 - **Technologies**: Microservices, AWS, CI/CD, Jest, Unit Testing, Git, Event-Driven Architecture, HTML, CSS, SCSS, Webpack, Babel, Docker, Kubernetes, Nginx, Redis, RabbitMQ, REST, WebSockets, OAuth, JWT, Prisma
 - **Architectures**: Frontend, Backend, Full-Stack, SSR, OOP, Functional Programming
-- **Areas of Expertise**: Software Engineering, DevOps, Systems Engineering, Technical Leadership, A/B Testing
+- **Areas of Expertise**: Software Engineering, DevOps, Systems Engineering, Technical Leadership
 
 ## Experience
 
