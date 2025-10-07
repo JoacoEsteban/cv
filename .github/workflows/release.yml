@@ -18,17 +18,20 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Set release date
+        run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> "$GITHUB_ENV"
+
       - name: Render PDF
-        run: npx -y mdpdf readme.md cv.pdf --style=style.css --gh-style
+        run: npx -y mdpdf readme.md "cv - ${CURRENT_DATE}.pdf" --style=style.css --gh-style
 
       - name: Render PDF (Spanish)
-        run: npx -y mdpdf spanish.md cv-spanish.pdf --style=style.css --gh-style
+        run: npx -y mdpdf spanish.md "cv-spanish - ${CURRENT_DATE}.pdf" --style=style.css --gh-style
 
       - name: Upload release asset
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            cv.pdf
-            cv-spanish.pdf
+            cv - ${{ env.CURRENT_DATE }}.pdf
+            cv-spanish - ${{ env.CURRENT_DATE }}.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
