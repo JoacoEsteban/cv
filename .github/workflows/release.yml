@@ -18,13 +18,10 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Set release date
-        run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> "$GITHUB_ENV"
-
       - name: Set file names
         run: |
-          echo "CV_FILE_NAME=CV-Joaquin_Esteban-${CURRENT_DATE}.pdf" >> "$GITHUB_ENV"
-          echo "CV_FILE_NAME_SPANISH=CV-Joaquin_Esteban-Español-${CURRENT_DATE}.pdf" >> "$GITHUB_ENV"
+          echo "CV_FILE_NAME=CV-Joaquin_Esteban.pdf" >> "$GITHUB_ENV"
+          echo "CV_FILE_NAME_SPANISH=CV-Joaquin_Esteban-Español.pdf" >> "$GITHUB_ENV"
 
       - name: Render PDF
         run: npx -y mdpdf readme.md $CV_FILE_NAME --style=style.css --gh-style
