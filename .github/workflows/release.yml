@@ -21,17 +21,22 @@ jobs:
       - name: Set release date
         run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> "$GITHUB_ENV"
 
+      - name: Set file names
+        run: |
+          echo "CV_FILE_NAME=CV-Joaquin_Esteban-${CURRENT_DATE}.pdf" >> "$GITHUB_ENV"
+          echo "CV_FILE_NAME_SPANISH=CV-Joaquin_Esteban-Español-${CURRENT_DATE}.pdf" >> "$GITHUB_ENV"
+
       - name: Render PDF
-        run: npx -y mdpdf readme.md "cv - ${CURRENT_DATE}.pdf" --style=style.css --gh-style
+        run: npx -y mdpdf readme.md $CV_FILE_NAME --style=style.css --gh-style
 
       - name: Render PDF (Spanish)
-        run: npx -y mdpdf spanish.md "cv-spanish - ${CURRENT_DATE}.pdf" --style=style.css --gh-style
+        run: npx -y mdpdf spanish.md $CV_FILE_NAME_SPANISH --style=style.css --gh-style
 
       - name: Upload release asset
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            cv - ${{ env.CURRENT_DATE }}.pdf
-            cv-spanish - ${{ env.CURRENT_DATE }}.pdf
+            ${{ env.CV_FILE_NAME }}
+            ${{ env.CV_FILE_NAME_SPANISH }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
